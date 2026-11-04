@@ -18,7 +18,8 @@ client_scripts {
 server_scripts {
     'server/sv_config.lua',
     'server/webhook.lua',
-    'server/server.lua'
+    'server/server.lua',
+    'server/versionchecker.lua'
 }
 
 ui_page 'html/index.html'
